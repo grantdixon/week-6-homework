@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+
+#background {
+	background-repeat: no-repeat;
+	background-size: 70%;
+	max-width: 700px;
+}
+
+#animal-form {
+	float: right;
+}
+
+h3 {
+	color: navy;
+	text-align: center;
+
+}
+
+input {
+	align-content: center;
+}
+
+#animals-view {
+	float: left;
+
+}
